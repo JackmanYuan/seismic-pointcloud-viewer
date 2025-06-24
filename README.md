@@ -38,9 +38,7 @@ pip install -r requirements.txt
 
 
 ## 📷 Preview
-
-(Optional: Add screenshot or animated GIF showing the interactive Plotly output)
-
+![visualize_seismic](https://github.com/user-attachments/assets/06c60af0-06da-4a2e-88c3-b4e0a73a1819)
 
 ## 🧠 Credits
 - Data: Facies Classification Benchmark
