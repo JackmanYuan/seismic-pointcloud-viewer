@@ -17,7 +17,7 @@ After downloading, place the files in the same directory as the notebook, or adj
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/seismic-pointcloud-viewer.git
+git clone https://github.com/JackmanYuan/seismic-pointcloud-viewer.git
 cd seismic-pointcloud-viewer
 ```
 
